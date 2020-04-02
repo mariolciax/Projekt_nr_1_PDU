@@ -1,5 +1,5 @@
 ### Praca projektowa nr 1 
-### Rozwiπzanie zadan
+### Rozwi≈°zanie zadan
 ### Imie Nazwisko nr_indeksu kierunek (wybierz: MAT, MAD, IAD)
 
 ## ...---... Zadanie 01.01 ...---...
