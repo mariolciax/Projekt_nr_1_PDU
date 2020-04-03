@@ -13,10 +13,11 @@ w <- list(c("Ala", "Kasia", "Zosia"),
           c("ma", "lubi", "zawsze"),
           c("kota", "truskawki", "wygrywa"),
           c(".",";","!"))
-sklej(w, sep=" ")
+sklej(w)
 przyklad <- list(c("a","b","c"),
                  as.character(1:3),
-                 rep("%",3))
-sklej(przyklad, sep ="*")
+                 rep("%",3),
+                 sep ="~~")
+sklej(przyklad)
 
-sklej(c("a","b","c"), sep =" ")
+sklej(c("a","b","c"))
